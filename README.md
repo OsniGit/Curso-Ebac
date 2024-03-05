@@ -1,5 +1,5 @@
 # Curso Front-end
-Aprenda o que é necessário para desenvolver interfaces para web.
+Aprendendo desenvolver interfaces para web.
 ## HTML 
 HyperText Markup Language - Linguagem de marcação de Hipertexto
 
